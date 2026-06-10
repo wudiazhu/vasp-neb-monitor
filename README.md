@@ -69,8 +69,7 @@ The script generates an HTML file that can be opened in any web browser. The out
 
 ## Requirements
 
-- Python 3.6+
-- VASP (Vienna Ab initio Simulation Package)
+- Python 3.x.x
 
 ## Installation
 
@@ -80,10 +79,6 @@ Clone the repository:
 git clone https://github.com/wudiazhu/vasp-neb-monitor.git
 cd vasp-neb-monitor
 ```
-
-## License
-
-[Add your license here]
 
 ## Contributing
 
